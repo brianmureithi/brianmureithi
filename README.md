@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Brian Murithi
 
 - 🔭 I’m currently working on Laravel projects
-- 🌱 I’m also conversant with javascript (React framework), Flutter, and Node.js. Additionally, I'm into A.I projects, especially deep learning, and data mining
-- 👯 I’m looking to collaborate on Laravel & Mern stack projects, and ideally any web development endeavour 
-- 📫 You can reach me through: brianmurithi65@gmail.com 
-- ⚡ Fun fact: I code best on Sundays
+- 🌱 I’m conversant with javascript (React framework), Flutter, and Node.js. Additionally, I'm into A.I projects - deep learning, and data mining
+- 👯 I’m looking to collaborate on Laravel & Mern stack projects 
+- 📫 You can reach me through: brianmurithi65@gmail.com || +254 768 938 573
 <!--
 **brianmureithi/brianmureithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
