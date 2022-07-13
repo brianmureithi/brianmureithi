@@ -1,10 +1,13 @@
-### Hi there 👋 I'm Brian Murithi
+### Hi there, I'm Brian Murithi
 
-- 🔭 I’m currently working on Laravel projects
-- 🌱 I code in php and javascript(react). 
-- 👯 We can collaborate on Laravel & Mern stack projects 
-- 🌱I'm currently learning cloud native s/w development
-- 📫 You can reach me through: brianmurithi65@gmail.com
+-  I’m currently working on Laravel projects
+-  I code in php and javascript(react). 
+
+-  I'm currently enjoying Inertiajs with react and laravel, and TailwindCss
+-  We can collaborate on Laravel & Mern stack projects 
+
+-  I'm currently learning cloud development
+-  You can reach me through: brianmurithi65@gmail.com
 <!--
 **brianmureithi/brianmureithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
