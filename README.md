@@ -6,7 +6,6 @@
 -  I'm currently enjoying Inertiajs with react and laravel, and TailwindCss
 -  We can collaborate on Laravel & Mern stack projects 
 
--  I'm currently learning cloud development
 -  You can reach me through: brianmurithi65@gmail.com
 <!--
 **brianmureithi/brianmureithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
