@@ -4,6 +4,7 @@
 -  I code in php and javascript(react). 
 
 -  I'm currently enjoying Inertiajs with react and laravel, and TailwindCss
+-  Venturing into machine learning using Python
 -  We can collaborate on Laravel & Mern stack projects 
 
 -  You can reach me through: brianmurithi65@gmail.com
