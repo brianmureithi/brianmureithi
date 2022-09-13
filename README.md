@@ -3,7 +3,7 @@
 -  I’m currently working on Laravel projects
 -  I code in php and javascript(react). 
 
--  I'm currently enjoying Inertiajs with react and laravel, and TailwindCss
+-  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
 -  Venturing into machine learning using Python
 -  We can collaborate on Laravel & Mern stack projects 
 
