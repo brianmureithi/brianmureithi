@@ -1,10 +1,10 @@
 ### Hi there, I'm Brian Murithi
 
 -  I’m currently working on Laravel projects
--  I code in php and javascript(react). 
+-  I code in php and javascript(react & Node leveraging TypeScript). 
 
 -  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
--  Venturing into machine learning using Python
+-  Im also venturing into machine learning using Python
 -  We can collaborate on Laravel & Mern stack projects 
 
 -  You can reach me through: brianmurithi65@gmail.com
