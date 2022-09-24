@@ -2,7 +2,7 @@
 
 -  I’m currently working on Laravel projects
 -  I code in php and javascript(react & Node) leveraging TypeScript 
---  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
+-  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
 -  I'm learning GraphQL, Svelte, Python for machine learning
 -  We can collaborate on Laravel & Mern stack projects 
 
