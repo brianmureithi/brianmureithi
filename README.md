@@ -1,13 +1,12 @@
 ### Hi there, I'm Brian Murithi
 
 -  I’m currently working on Laravel projects
--  I code in php and javascript(react & Node leveraging TypeScript). 
-
--  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
--  Im also venturing into machine learning using Python
+-  I code in php and javascript(react & Node) leveraging TypeScript 
+--  I'm currently enjoying Inertiajs with react and laravel, react-native, and TailwindCss
+-  I'm learning GraphQL, Svelte, Python for machine learning
 -  We can collaborate on Laravel & Mern stack projects 
 
--  You can reach me through: brianmurithi65@gmail.com
+-  You can reach me through twitter @brianmurithi_
 <!--
 **brianmureithi/brianmureithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
