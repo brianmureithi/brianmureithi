@@ -1,7 +1,7 @@
 ### Hi there, I'm Brian Murithi
 
 -  I’m currently working on Laravel projects
--  I code in php and javascript(react & Node) leveraging TypeScript 
+-  I code in PHP and JavaScript(React & Node)  
 -  I'm currently enjoying Vue.js, Inertiajs with react and laravel, react-native, and TailwindCss
 -  I'm learning GraphQL, Svelte, Python for machine learning
 -  We can collaborate on Laravel & Mern stack projects 
