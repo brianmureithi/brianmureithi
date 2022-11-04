@@ -3,9 +3,7 @@
 -  I’m currently working on Laravel projects
 -  I code in PHP and JavaScript(React & Node)  
 -  I'm currently enjoying Vue.js, Inertiajs with react and laravel, react-native, and TailwindCss
--  I'm learning GraphQL, Svelte, Python for machine learning
--  We can collaborate on Laravel & Mern stack projects 
-
+-  I'm learning GraphQL, Svelte, and CI/CD
 -  You can reach me through twitter @brianmurithi_
 <!--
 **brianmureithi/brianmureithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
