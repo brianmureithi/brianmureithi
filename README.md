@@ -4,7 +4,7 @@
 -  I code in PHP and JavaScript(React & Node)  
 -  I'm currently enjoying Vue.js, Inertiajs with react and laravel, react-native, and TailwindCss
 -  I'm learning GraphQL, Svelte, and CI/CD
--  Contact me on twitter (https://twitter.com/brianmurithi_ "brianmurithi")
+-  Contact me on twitter ([brianmurithi_](https://twitter.com/brianmurithi_))
 
 
 <!--
