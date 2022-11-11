@@ -5,6 +5,7 @@
 -  I'm currently enjoying Vue.js, Inertiajs with react and laravel, react-native, and TailwindCss
 -  I'm learning GraphQL, Svelte, and CI/CD
 -  Contact me on twitter [brianmurithi_](https://twitter.com/brianmurithi_)
+-  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
 
 <!--
