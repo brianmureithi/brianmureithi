@@ -1,9 +1,10 @@
 ### Hi there, I'm Brian Murithi
 
--  I’m currently working on Laravel projects
--  I code in PHP and JavaScript(React & Node)  
+-  I’m a web developer based in Nairobi Kenya
+-  I code using PHP and JavaScript to develop APIs and frontend respectively 
 -  I'm currently enjoying Vue.js, Inertiajs with react and laravel, react-native, and TailwindCss
--  I'm learning GraphQL, Svelte, and CI/CD
+-  I'm learning Django, Flutter, and CI/CD
+-  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -  Contact me on twitter [brianmurithi_](https://twitter.com/brianmurithi_)
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
