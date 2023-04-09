@@ -2,9 +2,18 @@
 
 -  I’m a web developer based in Nairobi Kenya
 -  I code using PHP and JavaScript to develop APIs and frontend respectively 
--  I'm currently enjoying Vue.js, GraphQL, Inertiajs with react and laravel, react-native, and TailwindCss
+ ## Current Skills
+- Laravel
+- Vue.js
+- ReactJs
+- NextJs
+- GraphQL
+- Inertiajs
+- React-native
+- SCSS
+- TailwindCss
+# -Saas
 -  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
--  Contact me on twitter [brianmurithi_](https://twitter.com/brianmurithi_)
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
 
