@@ -13,7 +13,8 @@
 - SCSS
 - TailwindCss
 - #Saas
--  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+## Contact me
+-  Email [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
 
