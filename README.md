@@ -14,7 +14,7 @@
 - TailwindCss
 - #Saas
 ## Contact me
--  Email [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=Contact from Github)
+-  Email [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub] Message from github)
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
 
