@@ -1,8 +1,8 @@
-### Hi there, I'm Brian Murithi
+## Hi there, I'm Brian Murithi
 
 -  I’m a web developer based in Nairobi Kenya
 -  I code using PHP and JavaScript to develop APIs and frontend respectively 
- ## Current Skills
+### Current Skills
 - Laravel
 - Vue.js
 - ReactJs
@@ -12,8 +12,8 @@
 - React-native
 - SCSS
 - TailwindCss
-- #Saas
-## Contact me
+- Software as a service (Saas)
+### Contact me
 -  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub])
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
