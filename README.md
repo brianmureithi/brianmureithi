@@ -1,7 +1,8 @@
 ## Hi there, I'm Brian Murithi
 
 -  I’m a web developer based in Nairobi Kenya
--  I use several technologies and languages to develop applications and APIs.  
+-  I use several technologies and languages to develop applications and APIs.
+- Currently working on [Manage Keja](http://managekeja.com)
 ### Current Skills
 - Laravel
 - Vue.js
