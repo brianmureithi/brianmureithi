@@ -2,7 +2,7 @@
 
 -  I’m a web developer based in Nairobi Kenya
 -  I use several technologies and languages to develop applications and APIs.
-- Currently working on [Manage Keja](http://managekeja.com)
+-  Currently working on [Manage Keja](http://managekeja.com){:target="_blank"}
 ### Current Skills
 - Laravel
 - Vue.js
