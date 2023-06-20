@@ -8,18 +8,20 @@
 - Vue.js
 - ReactJs
 - NextJs
+- NodeJS
 - GraphQL APIs
-- RestFul APIs
+- Restful APIs
 - Inertiajs
 - Python
 - JQuery
 - React-native
-- SCSS
-- TailwindCss
+- SCSS/SASS
+- tailwindcss
 - AWS deployment and management
+- Google Cloud Platform deployment and management
 - Software as a service (Saas)
 ### Contact me
--  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[GitHub])
+-  Email me at [Brian Murithi](mailto:brianmurithi65@gmail.com?subject=[Github])
 -  LinkedIn [Brian Murithi](https://www.linkedin.com/in/brian-murithi-97ba53164/)
 
 
