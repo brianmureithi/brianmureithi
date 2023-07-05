@@ -7,6 +7,7 @@
 - Laravel
 - Vue.js
 - ReactJs
+- Nuxt
 - NextJs
 - NodeJS
 - GraphQL APIs
