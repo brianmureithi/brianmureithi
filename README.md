@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Laravel & React, View Projects**
+- 👯 I’m looking to collaborate on **Laravel, React & Vue Projects**
 
 - 💬 Ask me about **React, Vue, Laravel, JavaScript**
 
