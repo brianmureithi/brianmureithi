@@ -12,8 +12,16 @@
 - 💬 Ask me about **React, Vue, Laravel, JavaScript**
 
 - 📫 How to reach me **brianmurithi65@gmail.com**
-  
+
 - 🍯 Fun Fact: Ancient honey never spoils – it's an everlasting treat! 🐝✨
+  
+ ⚽️ Fantasy Premier League ⚽️
+
+🏆 Join my Fantasy Premier League! [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
+
+Let's compete for the top spot! 🥇🏆
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
