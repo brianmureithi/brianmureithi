@@ -17,7 +17,7 @@
   
  ⚽️ Fantasy Premier League ⚽️
 
-🏆 Join my Fantasy Premier League! [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
+🏆 Join my Fantasy Premier League [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
 
 Let's compete for the top spot! 🥇🏆
   
