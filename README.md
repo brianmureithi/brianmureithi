@@ -5,21 +5,14 @@
 
 - 🔭 I’m currently working on [manageKeja](https://managekeja.com/)
 
-- 🌱 I’m currently learning **Django**
-
 - 👯 I’m looking to collaborate on **Laravel, React & Vue Projects**
 
 - 💬 Ask me about **React, Vue, Laravel, JavaScript**
 
 - 📫 How to reach me **brianmurithi65@gmail.com**
 
-- 🍯 Fun Fact: Ancient honey never spoils – it's an everlasting treat! 🐝✨
-  
- ⚽️ Fantasy Premier League ⚽️
+🏆 Join my Fantasy Premier League ⚽️ [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
 
-🏆 Join my Fantasy Premier League [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
-
-Let's compete for the top spot! 🥇🏆
   
 
 
