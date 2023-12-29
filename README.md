@@ -5,17 +5,11 @@
 
 - 🔭 I’m currently working on [manageKeja](https://managekeja.com/)
 
-- 👯 I’m looking to collaborate on **Laravel, React & Vue Projects**
+- 👯 I’m looking to collaborate on **Laravel, React, Vue & Django Projects**
 
-- 💬 Ask me about **React, Vue, Laravel, JavaScript**
+- 💬 Ask me about **React, Vue, Laravel, Django & JavaScript**
 
 - 📫 How to reach me **brianmurithi65@gmail.com**
-
-🏆 Join my Fantasy Premier League ⚽️ [Choma sos](https://fantasy.premierleague.com/leagues/auto-join/h0rwtd).
-
-  
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian-murithi-97ba53164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-murithi-97ba53164" height="30" width="40" /></a>
