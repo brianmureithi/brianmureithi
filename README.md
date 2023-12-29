@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brian Murithi</h1>
-<h3 align="center">A fullstack developer based in Nairobi</h3>
+<h3 align="center">A fullstack developer based in Nairobi-Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on [manageKeja](https://managekeja.com/)
+- 🔭 I’m currently working on [manageKeja](https://managekeja.com/).
 
-- 👯 I’m looking to collaborate on **Laravel, React, Vue & Django Projects**
+- 👯 I’m looking to collaborate on **Laravel, React, Vue & Django Projects**.
 
-- 💬 Ask me about **React, Vue, Laravel, Django & JavaScript**
+- 💬 Ask me about **React, Vue, Laravel, Django & JavaScript**.
 
-- 📫 How to reach me **brianmurithi65@gmail.com**
+- 📫 How to reach me **brianmputhia17@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brian-murithi-97ba53164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-murithi-97ba53164" height="30" width="40" /></a>
