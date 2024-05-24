@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [manageKeja](https://managekeja.com/).
 
-- 👯 I’m looking to collaborate on **Laravel, React, Vue & Django Projects**.
+- 👯 I’m looking to collaborate on **Laravel, React, Vue, Rust, Swift || Django Projects**.
 
 - 💬 Ask me about **React, Vue, Laravel, Django & JavaScript**.
 
