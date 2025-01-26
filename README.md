@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [manageKeja](https://managekeja.com/).
 
-- 👯 We can collaborate on **Laravel, React, Vue, Ruby on Rails, Django & Swift Projects**.
-
-- 💬 Ask me about **React, Vue, Laravel, Django & JavaScript**.
+- 👯 We can collaborate on **Laravel, React, Vue, React-Native, Ruby on Rails, Django & Swift Projects**.
 
 - 📫 How to reach me **brianmputhia17@gmail.com**
 
