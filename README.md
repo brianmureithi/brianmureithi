@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on [manageKeja](https://managekeja.com/).
+- 🔭 I’m currently working on a bunch of stuff
 
 - 👯 We can collaborate on **Laravel, React, Vue, React-Native, Ruby on Rails, Django & Swift Projects**.
 
