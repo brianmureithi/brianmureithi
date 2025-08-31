@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on a bunch of stuff
 
-- 👯 We can collaborate on **Laravel, React, Vue, React-Native, Ruby on Rails, Django & Swift Projects**.
+- 👯 We can collaborate on **Laravel, React, Vue, React-Native, Ruby on Rails, and Django Projects**.
+
+- I enjoy architecting performant systems as well 
 
 - 📫 How to reach me **brianmputhia17@gmail.com**
 
