@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on a bunch of exciting projects.
 
-- 👯 I'm open to collaborating on projects.
+- 👯 I'm open to collaborating.
 
 - 📫 Reach me at **brianmurithi65@gmail.com**
 
