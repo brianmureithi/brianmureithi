@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on a bunch of exciting projects.
 
-- 👯 I'm open to collaborating on **Laravel, Ruby on Rails, Django, React, React Native, Vue, and Flutter** projects.
+- 👯 I'm open to collaborating on projects.
 
 - 📫 Reach me at **brianmurithi65@gmail.com**
 
